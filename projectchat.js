@@ -1,1 +1,4 @@
-<script type='text/javascript' data-cfasync='false'>window.purechatApi = { l: [], t: [], on: function () { this.l.push(arguments); } }; (function () { var done = false; var script = document.createElement('script'); script.async = true; script.type = 'text/javascript'; script.src = 'https://app.purechat.com/VisitorWidget/WidgetScript'; document.getElementsByTagName('HEAD').item(0).appendChild(script); script.onreadystatechange = script.onload = function (e) { if (!done && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) { var w = new PCWidget({c: '7755e068-5a55-4422-a2f9-3b84f7f5a4f9', f: true }); done = true; } }; })();</script>
+<html>
+<head>
+    <script src="https://raw.github.com/e0ne/BlogSamples/master/ModalDialog/AdvancedPopup/jquery.min.js"></script>
+</head>
